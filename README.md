@@ -34,6 +34,6 @@ getColorJetRGBi(v=i / 100., vmin=0, vmax=1)
 ```
 
 thanx!
-[http://qiita.com/shimacpyon/items/9902b685a7a95e824a58]
+(http://qiita.com/shimacpyon/items/9902b685a7a95e824a58)
 
-[http://stackoverflow.com/questions/7706339/grayscale-to-red-green-blue-matlab-jet-color-scale/7811134#7811134]
+(http://stackoverflow.com/questions/7706339/grayscale-to-red-green-blue-matlab-jet-color-scale/7811134#7811134)
